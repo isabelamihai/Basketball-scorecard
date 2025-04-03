@@ -14,7 +14,7 @@ The app is a game scorecard that adds points for 2 teams using 3 buttons linked 
 
 ## Capturi de ecran
 
-![SS with the app](![image](https://github.com/user-attachments/assets/848846ae-7a89-4608-9483-88be7b6e8374))
+![SS with the app](scorecard-img.png)
 
 ## Link live
 
