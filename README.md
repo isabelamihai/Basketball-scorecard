@@ -9,8 +9,8 @@ The app is a game scorecard that adds points for 2 teams using 3 buttons linked 
 
 ## Cum se folosește
 
-1. Clonează repository-ul
-2. Deschide index.html în browser
+1. Clone the Repo
+2. Open index.html in browser and start keeping score
 
 ## Capturi de ecran
 
