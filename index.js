@@ -1,5 +1,5 @@
-let homeScore =18;
-let guestScore = 10;
+let homeScore =0;
+let guestScore = 0;
 let homeEl = document.getElementById("home-score");
 let guestEl = document.getElementById("guest-score");
 let winnerEL = document.getElementById("winner-message");
@@ -55,5 +55,4 @@ function declareWinner() {
         winnerEL.textContent= "It's a tie!";
     }   
     winnerEL.style.border = "3px double #9AABD8";
-    // Reset scores after declaring winner
-}
+} 
