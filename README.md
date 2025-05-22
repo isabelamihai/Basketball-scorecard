@@ -1,5 +1,5 @@
 # Basketball-scorecard
-The app is a game scorecard that adds points for 2 teams using 3 buttons linked to 3 functions.
+The app is a simple game scorecard that allows users to add points for two teams using three buttons, each linked to a dedicated scoring function.
 
 ## Used tehnologies
 
@@ -17,6 +17,6 @@ The app is a game scorecard that adds points for 2 teams using 3 buttons linked 
 
 ## Live link
 
-Vezi aplicatia live aici:
-GhPages - https://isabelamihai.github.io/Basketball-scorecard/
+Check the live app here:<br/>
+GhPages - https://isabelamihai.github.io/Basketball-scorecard/<br/>
 Netlify - https://scorecard-mini-app.netlify.app/
