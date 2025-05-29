@@ -15,5 +15,5 @@ The app is a simple game scorecard that allows users to add points for two teams
 ## 🔛Link live
 
 Check the live app here:<br/>
-GhPages - https://isabelamihai.github.io/Basketball-scorecard/<br/>
-Netlify - https://scorecard-mini-app.netlify.app/
+[GhPages](https://isabelamihai.github.io/Basketball-scorecard/) <br/>
+[Netlify](https://scorecard-mini-app.netlify.app/)
